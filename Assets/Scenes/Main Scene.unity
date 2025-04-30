@@ -4648,7 +4648,7 @@ GameObject:
   - component: {fileID: 563264668}
   - component: {fileID: 563264667}
   m_Layer: 0
-  m_Name: Text (TMP)
+  m_Name: Chest Sealed Message
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14635,8 +14635,10 @@ SceneRoots:
   - {fileID: 671155978}
   - {fileID: 966572119}
   - {fileID: 110919536}
+  - {fileID: 1251642567}
   - {fileID: 180710775}
   - {fileID: 1737402491}
+  - {fileID: 563264669}
   - {fileID: 2025576295}
   - {fileID: 423186309}
   - {fileID: 121927444}
@@ -14660,5 +14662,3 @@ SceneRoots:
   - {fileID: 185518368}
   - {fileID: 594317383}
   - {fileID: 666242541}
-  - {fileID: 563264669}
-  - {fileID: 1251642567}
